@@ -29,6 +29,7 @@ it works on my machine (Maybe)
 ## 开源许可证
 
 本项目基于 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt) 开源
+
 Copyright (C) 2026 a05777
 
 ## Credits
