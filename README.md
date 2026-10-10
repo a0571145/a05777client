@@ -25,6 +25,7 @@ it works on my machine (Maybe)
 - MSVC 2026
 - Win11 26H2
 - FPSMaster v3.2.9 1.8.9 (Forge) (master - 523f039)
+你需要一个好用的AI来帮你看我用AI写的维护文档和我用AI写的神秘代码
 
 ## 开源许可证
 
